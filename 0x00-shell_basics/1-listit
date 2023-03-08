@@ -1,4 +1,3 @@
 #!/bin/bash
-#list of stuff
 echo "movies food docs music relis"
 
